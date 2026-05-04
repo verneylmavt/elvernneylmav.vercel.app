@@ -56,7 +56,7 @@ export function DemoPage() {
   return (
     <div className="relative min-h-screen text-foreground">
       <ThreeBackground />
-      <SiteHeader brand="intersection-template" items={NAV} activeId={activeId} />
+      <SiteHeader brand="elvernneylmav" items={NAV} activeId={activeId} />
 
       <main className="relative">
         <Section id="home" title="Intersection Template">
